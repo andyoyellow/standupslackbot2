@@ -6,7 +6,7 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.13.2",
-    "hubot-astroscrum": "^0.1.82",
+    //"hubot-astroscrum": "^0.1.82",
     "hubot-business-cat": "1.2.2",
     "hubot-daily-update": "^1.1.1",
     "hubot-diagnostics": "0.0.1",
