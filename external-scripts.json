@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-business-cat",
   "hubot-standup-alarm",
-  "hubot-daily-update"
+  "hubot-daily-update",
+  "hubot-astroscrum"
 ]
