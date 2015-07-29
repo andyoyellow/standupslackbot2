@@ -20,7 +20,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-standup-alarm": "0.0.6",
-    "hubot-daily-update": "hubot-daily-update": "^1.1.1"
+    "hubot-daily-update": "^1.1.1"
   },
   "engines": {
     "node": "0.10.x"
